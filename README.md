@@ -1,2 +1,7 @@
-# segmentationPY
-solved segmentation problem using python.
+# segmentation problem using k-means
+
+### Expectations
+![Expectation](expectation.png)
+
+### Data Dictionary
+![Data Dictionary](data_dict.png)
